@@ -1,3 +1,13 @@
+## Français
+
+Application de partage de fichiers pair-à-pair chiffrée de bout en bout sur le réseau maillé Reticulum. Exemple : transférer des fichiers entre nœuds compatibles après configuration du réseau.
+
+## English
+
+An end-to-end encrypted peer-to-peer file-sharing app over the Reticulum mesh network. Example: transfer files between compatible nodes after configuring the network.
+
+---
+
 # 👻 Reticulum Phantom
 
 **Decentralized, end-to-end encrypted peer-to-peer file sharing over the [Reticulum](https://reticulum.network/) mesh network.**
